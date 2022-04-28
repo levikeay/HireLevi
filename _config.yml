@@ -77,6 +77,7 @@ projects_categories:
   - Acoustics
   - Hardware
   - Software
+ 
 related_sites:
   Jekyll | Static site generator: https://jekyllrb.com
   Source Repo | Theme antarctica: https://github.com/SdtElectronics/jekyll-theme-antarctica
